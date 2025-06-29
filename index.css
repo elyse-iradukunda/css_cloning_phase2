@@ -2,5 +2,17 @@
     width: 100%;
     height: 600px;
     background-image: url(img.jpg);
+    
 
+}
+.nav-bar a{
+    margin-top: 15px;
+    color: black;
+}
+
+.header{
+
+    background: white;
+    height: 80px;
+    width: 100%;
 }
