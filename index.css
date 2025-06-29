@@ -58,3 +58,28 @@
     border-radius: 70%;
     padding: 10px;
 }
+.second-div{
+    
+         width: 90%;
+     height: 90px;
+     position: relative;
+     left: 70px;
+     top: 10px;
+     border-radius: 10px;
+    background: #06102e;
+    color: white;
+    
+}
+
+.second-div svg{
+    margin-left: 100px;
+    
+}
+.second-div button{
+    margin-left: 200px;
+    
+}
+.second-div p{
+    margin-left: 200px;
+    
+}
