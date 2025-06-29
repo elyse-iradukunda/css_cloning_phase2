@@ -1,3 +1,4 @@
+
 .nav-bar{
     width: 100%;
     height: 600px;
@@ -15,4 +16,45 @@
     background: white;
     height: 80px;
     width: 100%;
+}
+.logo{
+    position: relative;
+    top: 20px;
+    right: 300px;
+}
+.whole{
+
+    position: relative;
+    color: white;
+    top: 200px;
+    left: 100px;
+    
+}
+
+.middle-menu{
+     width: 90%;
+     height: 90px;
+     position: relative;
+     left: 80px;
+     top: 200px;
+     background: white;
+     border-radius: 10px;
+}
+.button1{
+    position: relative;
+    width: 25%;
+    top: 20px;
+    left: 100px;
+    border: solid black 1px;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+#seek{
+    position: relative;
+    left: 110px;
+    top: 15px;
+    border-radius: 70%;
+    padding: 10px;
 }
